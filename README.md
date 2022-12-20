@@ -24,3 +24,6 @@ Here are some pictures of the project:
 ![fded0212-0cbe-4f35-b258-318642606807](https://user-images.githubusercontent.com/99658689/208670671-ef2cd68f-338e-4038-a501-bfef1fcab088.jpg)
 ![63d80e10-a4b2-41db-b6a2-754b193fd5a4](https://user-images.githubusercontent.com/99658689/208670675-bdc55c6f-a7dc-410f-9b99-12149cc42804.jpg)
 
+A video of the setup: (audio in Romanian)
+
+https://youtu.be/2D_pYsua41M
