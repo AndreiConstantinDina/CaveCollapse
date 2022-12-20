@@ -1,11 +1,15 @@
 # Cave Collapse
 This game was made as a project for the Introduction to Robotics course, University of Bucharest
 
-The name of the game is Cave Collapse. I chose this name because it feels like you are running in a 2D cave that is collapsing behind you, but you also can't really see too far. So, RUN FOR YOUR LIFE.
+The name of the game is Cave Collapse. I chose this name because it feels like you are running in a 2D cave that is collapsing behind you, but you also can't really see too far. So, your survival instincts kick in and you RUN FOR YOUR LIFE.
 
-The mechanics of the game are pretty simple. You use a joystick to move left/ right/ up/ down OR diagonally (if you are precise enough) while trying to avoid the cave rocks (bright LEDS on the matrix). The more you run, the better score you'll get. You can choose difficuly 1-3 for a score multiplier, but a greater difficulty makes the game progress faster. 
+The mechanics of the game are pretty simple. You use a joystick to move left/ right/ up/ down OR diagonally (if you are precise enough) while trying to avoid the cave rocks (bright LEDS on the matrix). The more you run, the better score you'll get. You can choose difficuly 1-3 for a score multiplier, but a greater difficulty makes the game progress faster. I tried to design the difficulty levels such as they are not too hard. Difficulty 1 is basically a tutorial, you just need to get the hang of it, difficulty 2 is more challenging and in difficulty 3 you can't really blink or you might lose.
 
-The menu part of the game is pretty basic and intuitive, choose between a few sections matrix brightness settings, LCD brightness/ LCD contrast settings, difficulty, about section and a leaderboard where the top 5 scores are kept. 
+The game is fun in my opinion since you need have good rythm and reaction time in order to survive (kind of like real life, if you're a musician?) and you also need to be precise with the joystick movement. One diagonal move instead of vertical and you may be greeted with a game over message!
+
+I liked the idea of a randomly generated, infinite run type of game since every start is new. Designing different levels for a game can be a lot of work for the developer and it can get boring fast for the player since after you complete a level you already know exactly how it's gonna turn out the next time. And unless I could have designed a story with good character developement one a 8x8 matrix, I did not really enjoy the idea of a level-based game.
+
+The menu part of the game is pretty basic and intuitive, choose between a few sections matrix brightness settings, LCD brightness/ LCD contrast settings, difficulty, about section and a leaderboard where the top 5 scores are kept. Everything does what you'd expect it to.
 
 I used some basic components, such as:
 
